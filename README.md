@@ -9,6 +9,12 @@ httlib2がない、とかいっているけど、ソースコードの中で !pi
 検索してみて近いことをやっているっぽい以下のURLに書いてあることをそのままやってみた。
 https://medium.com/google-cloud/deploying-a-python-serverless-function-in-minutes-with-gcp-19dd07e19824
 
-python 3.7 を選んで、ソースタブのコードのペインにソースコードを書き込んだ。
+python 3.7 を選んで、ソースタブのコードのペインのなかの main.py のタブペインにソースコード（sample.py）の内容をコピペで書き込んだ。
+requirements.txt のタブペインは、デフォルトのまま（以下）。
+
+```
+# Function dependencies, for example:
+# package>=version
+```
 
 うまく動いたみたい。
