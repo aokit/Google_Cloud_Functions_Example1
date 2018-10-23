@@ -8,3 +8,7 @@ httlib2がない、とかいっているけど、ソースコードの中で !pi
 
 検索してみて近いことをやっているっぽい以下のURLに書いてあることをそのままやってみた。
 https://medium.com/google-cloud/deploying-a-python-serverless-function-in-minutes-with-gcp-19dd07e19824
+
+python 3.7 を選んで、ソースタブのコードのペインにソースコードを書き込んだ。
+
+うまく動いたみたい。
