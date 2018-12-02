@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+# -# google-auth
+google-api-python-client
+oauth2client
+
