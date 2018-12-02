@@ -20,3 +20,9 @@ requirements.txt のタブペインは、デフォルトのまま（以下）。
 <image >
 
 うまく動いたみたい。
+
+Google Cloud Functions でもローカルファイルを作って使うことはできるみたい。
+少なくとも、実行中はいったん書いたファイルは残ってくれている。残っているファイルを Google Cloud Storage に書き出してみた。
+main.py
+requirement.txt
+を置いておきます。
